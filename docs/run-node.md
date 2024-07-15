@@ -71,7 +71,7 @@ babylond start --home ./.testnet/node0/babylond
 ### Logs
 
 The logs for a particular node can be found under
-`.testnets/node{id}/babylond/babylond.log`.
+`.testnet/node{id}/babylond/babylond.log`.
 
 ### Performing queries
 
@@ -132,10 +132,10 @@ We provide support for running a multi-node testnet using Docker. To build it
 make localnet-start
 ```
 
-The corresponding node directories can be found under `.testnets`
+The corresponding node directories can be found under `.testnet`
 
 ```console
-$ ls .testnets
+$ ls .testnet
 gentxs node0 node1 node2 node3
 ```
 

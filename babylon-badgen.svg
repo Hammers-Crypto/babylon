@@ -1,0 +1,20 @@
+<svg width="74.8" height="20" viewBox="0 0 748 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="babylon">
+  <title>babylon</title>
+  <linearGradient id="eFWVR" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="GuTAQ"><rect width="748" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#GuTAQ)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="536" height="200" fill="#08C" x="212"/>
+    <rect width="748" height="200" fill="url(#eFWVR)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="436" fill="#000" opacity="0.25">babylon</text>
+    <text x="257" y="138" textLength="436">babylon</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjk0IiBoZWlnaHQ9IjI5NCIgdmlld0JveD0iMCAwIDI5NCAyOTQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMjkuMTI3NyAxMTAuNzM2QzQ0LjQ4MDcgNjIuNDMzNyA4OS42ODkyIDI3LjQzOTEgMTQzLjA3IDI3LjQzOTFDMjA5LjA4OSAyNy40MzkxIDI2Mi42MDcgODAuOTY2OSAyNjIuNjA3IDE0Ni45OTZDMjYyLjYwNyAyMDguMzM0IDIxNi40MjIgMjU4Ljg4MyAxNTYuOTM2IDI2NS43NTVWMjI4LjEwNUMxODMuMDEzIDIyMy42ODcgMjA0LjkxNiAyMDcuMDEgMjE2LjUwNyAxODQuMjEzSDE4My4zODhDMTczLjM2MyAxOTUuMDU1IDE1OS4wMTYgMjAxLjg0MyAxNDMuMDgyIDIwMS44NDNDMTEyLjc3NyAyMDEuODQzIDg4LjIwODkgMTc3LjI4NyA4OC4yMDg5IDE0Ni45OTVDODguMjA4OSAxMTYuNzA0IDExMi43NzcgOTIuMTQ5MiAxNDMuMDgyIDkyLjE0OTJDMTU5LjQ5IDkyLjE0OTIgMTc0LjIxNyA5OS4zNDc1IDE4NC4yNzMgMTEwLjc1OEgyMTYuOTk2QzIwMy41OSA4My40OTA4IDE3NS41MjkgNjQuNzI1MSAxNDMuMDgyIDY0LjcyNTFDOTcuNjIzOSA2NC43MjUxIDYwLjc3MzQgMTAxLjU1OSA2MC43NzM0IDE0Ni45OTVDNjAuNzczNCAxODcuNzY3IDkwLjQ0NTQgMjIxLjYxMSAxMjkuMzgzIDIyOC4xMzFWMjY1Ljc3NUM4Mi40MjQ2IDI2MC40MjIgNDMuNzI3MyAyMjcuODU3IDI5LjQ0MzkgMTg0LjIzNEgwLjg1Mzc4QzE3LjMzOSAyNDcuMzg1IDc0Ljc2MjMgMjkzLjk4OSAxNDMuMDcgMjkzLjk4OUMyMjQuMjQgMjkzLjk4OSAyOTAuMDQzIDIyOC4xNzkgMjkwLjA0MyAxNDYuOTk2QzI5MC4wNDMgNjUuODEyIDIyNC4yNCAwIDE0My4wNyAwQzc0LjQxMDUgMCAxNi43NDYyIDQ3LjA4NzggMC42MDE1NjIgMTEwLjczNkgyOS4xMjc3Wk00MjYiIGZpbGw9IndoaXRlIj48L3BhdGg+CjxwYXRoIGQ9Ik0xNzMuMTY1IDE0Ni45MzFDMTczLjE2NSAxNjMuNTg0IDE1OS42NjUgMTc3LjA4NCAxNDMuMDEyIDE3Ny4wODRDMTI2LjM1OSAxNzcuMDg0IDExMi44NTkgMTYzLjU4NCAxMTIuODU5IDE0Ni45MzFDMTEyLjg1OSAxMzAuMjc4IDEyNi4zNTkgMTE2Ljc3OCAxNDMuMDEyIDExNi43NzhDMTU5LjY2NSAxMTYuNzc4IDE3My4xNjUgMTMwLjI3OCAxNzMuMTY1IDE0Ni45MzFaIiBmaWxsPSIjRkY3QzJCIj48L3BhdGg+Cjwvc3ZnPgo="/>
+</svg>
